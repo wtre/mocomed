@@ -1,0 +1,9 @@
+dataset/
+.idea/
+red-cnn/__pycache__/
+red-cnn/img/
+red-cnn/npy_img/
+red-cnn/npy_img_subset/
+red-cnn/npy_imgpatch/
+red-cnn/save/
+*.npy
